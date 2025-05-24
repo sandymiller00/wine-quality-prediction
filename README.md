@@ -68,4 +68,4 @@ Sandesh Havale
  How to Run
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/wine-quality-prediction.git
+github.com/sandymiller00/wine-quality-prediction
